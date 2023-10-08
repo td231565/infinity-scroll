@@ -3,7 +3,7 @@ import RepoList from './view/repo/index.vue'
 </script>
 
 <template>
-  <main class="w-screen sm:place-items-center">
+  <main class="w-screen h-[100svh] sm:place-items-center overflow-hidden">
     <RepoList />
   </main>
 </template>
